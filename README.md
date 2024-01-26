@@ -39,4 +39,5 @@ Then, I created separate series for minimum and maximum values, global best valu
 maximum functions of the speeds. The first value of the personal best function will be x. I calculated the function before finding the personal best and global best values. Then I 
 calculated and printed the minimum and maximum values of personal best, global best, speed and function.
 
+
 ![ai](https://github.com/beyzacaglayan/Calculate-MaxMin-Points-AI/assets/54523165/11d4d74a-a7fb-4934-8278-ec1c1badad56)
