@@ -1,4 +1,4 @@
-1-Genetic Algorithm
+1-Genetic Algorithm:
 First, I defined import values in the Jupyter program. I chose the iteration value as 10, the maximum and minimum points as 1, and the pop_size as 9. So I initialized the population.
 Then, I created the fun(x) function and wrote the required sine function.
 I created a probability function. The probability value is obtained by dividing a fitness value by the total fitness value. I defined this in this function.
@@ -13,7 +13,7 @@ individuals, I directed the individual function to the random function and creat
 randomly choose is less than the minimum value, we increase the number to the minimum so that we can find the smallest value. If the number we randomly choose is greater than the maximum, 
 we increase the number up to the maximum so that we can find the maximum value in the same way.
 
-2-Particle Swarm Optimization
+2-Particle Swarm Optimization: 
 First, I create a particle, that is, a list of particles, for the x value and create a function for this particle. Inside this function, I need to create a new particle for each iteration.
 We will generate these particles randomly. For this, I created a list with new particles. To find the maximum and minimum values, I sorted this new list of particles from largest to smallest.
 Afterwards, I had to define the speeds as the PSO algorithm asked us to. First of all, I created a speed function for the initial minimum and maximum speeds between -10,10 values. 
